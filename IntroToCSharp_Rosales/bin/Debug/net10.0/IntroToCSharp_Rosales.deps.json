@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "IntroToCSharp_Rosales/1.0.0": {
+        "runtime": {
+          "IntroToCSharp_Rosales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroToCSharp_Rosales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

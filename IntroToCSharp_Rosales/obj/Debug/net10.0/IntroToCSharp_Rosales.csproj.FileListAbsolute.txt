@@ -1,0 +1,14 @@
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\bin\Debug\net10.0\IntroToCSharp_Rosales.exe
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\bin\Debug\net10.0\IntroToCSharp_Rosales.deps.json
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\bin\Debug\net10.0\IntroToCSharp_Rosales.runtimeconfig.json
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\bin\Debug\net10.0\IntroToCSharp_Rosales.dll
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\bin\Debug\net10.0\IntroToCSharp_Rosales.pdb
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.AssemblyInfoInputs.cache
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.AssemblyInfo.cs
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.dll
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\refint\IntroToCSharp_Rosales.dll
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.pdb
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\IntroToCSharp_Rosales.genruntimeconfig.cache
+C:\Users\Kristian\CSharpProjects\IntroToCSharp_Rosales\obj\Debug\net10.0\ref\IntroToCSharp_Rosales.dll
